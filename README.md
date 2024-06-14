@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Expense Tracker API
 The Expense Tracker API is a RESTful web service built using ASP.NET Core. It provides endpoints for managing expenses, incomes, categories, and users. The API includes JWT authentication for securing endpoints and Swagger UI for easy API documentation and testing.
 
@@ -33,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/expense-tracker-api.git
+git clone https://github.com/Bobbytee101/Expense_Tracker
 Navigate to the project directory:
 
 bash
